@@ -1,0 +1,2 @@
+git init #inicjalizacja repo 
+git status #status repo

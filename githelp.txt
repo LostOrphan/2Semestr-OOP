@@ -1,2 +1,6 @@
 git init #inicjalizacja repo 
 git status #status repo
+git add --all | git add .
+git commit 
+        -m <message>
+        --ammend <nadpisanie>

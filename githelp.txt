@@ -4,3 +4,6 @@ git add --all | git add .
 git commit 
         -m <message>
         --ammend <nadpisanie>
+git fetch #pobiera repo  
+git merge #łączy repo
+git pull #oba powyższe
